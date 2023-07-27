@@ -16,14 +16,11 @@ shown.
 
 # Solution
 
-**Author**
-Mateo Loaiza
+**Author:** Mateo Loaiza
 
-**Choices**
-For this coding test JavaScript, Node.js, and React.js were used.
+**Choices:** For this coding test JavaScript, Node.js, and React.js were used.
 
-**Considerations**
-The following are just some comments I wanted to include which do not affect the basic functionality of the app.
+**Considerations:** The following are just some comments I wanted to include which do not affect the basic functionality of the app.
 
 1. The "Uptime" column is shown different from the one in the picture due to the fact that in the JSON provided, the "Uptime" data is in hours rather than in percentage.
 2. The "Alerts" column will show every high and low alerts as red because I was trying to replicate the image. In the JSON "Gaulberg" has 1 low alert and the image provided shows it as red.
